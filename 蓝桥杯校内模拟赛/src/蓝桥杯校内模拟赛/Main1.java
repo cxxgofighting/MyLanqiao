@@ -1,5 +1,5 @@
-package À¶ÇÅ±­Ğ£ÄÚÄ£ÄâÈü;
-//111
+package Ã€Â¶Ã‡Ã…Â±Â­ÃÂ£Ã„ÃšÃ„Â£Ã„Ã¢ÃˆÃ¼;
+
 import java.util.Scanner;
 
 public class Main1 {
