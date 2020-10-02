@@ -1,5 +1,5 @@
 package 蓝桥杯校内模拟赛;
-
+//111
 import java.util.Scanner;
 
 public class Main1 {
